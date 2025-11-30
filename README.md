@@ -37,7 +37,7 @@ Each folder in this repository corresponds to a specific day and contains the co
 | **03** | **Predicting Housing Market Trends with AI** | Regression, Correlation | ✅ | [View]() |
 | **04** | **AI in Healthcare: Heart Disease Predictor** | Classification, Medical AI | ✅ | [View]() |
 | **05** | **Smart Segmentation: Customer Personas** | K-Means Clustering, Unsupervised Learning | ✅ | [View]() |
-| **06** | **Predicting Future Store Sales with AI** | Time Series (Basic), Regression | ⏳ | [View]() |
+| **06** | **Predicting Future Store Sales with AI** | Time Series (Basic), Regression | ✅ | [View]() |
 | **07** | **Preventing Customer Churn** | Feature Engineering, Imbalanced Data | ⏳ | [View]() |
 
 ### Week 2: Deep Learning & Computer Vision
