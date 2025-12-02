@@ -38,14 +38,14 @@ Each folder in this repository corresponds to a specific day and contains the co
 | **04** | **AI in Healthcare: Heart Disease Predictor** | Classification, Medical AI | ✅ | [View]() |
 | **05** | **Smart Segmentation: Customer Personas** | K-Means Clustering, Unsupervised Learning | ✅ | [View]() |
 | **06** | **Predicting Future Store Sales with AI** | Time Series (Basic), Regression | ✅ | [View]() |
-| **07** | **Preventing Customer Churn** | Feature Engineering, Imbalanced Data | ⏳ | [View]() |
+| **07** | **Preventing Customer Churn** | Feature Engineering, Imbalanced Data | ✅ | [View]() |
 
 ### Week 2: Deep Learning & Computer Vision
 *Focus: Neural Networks, CNNs, Transfer Learning, and NLP.*
 
 | Day | Project Name | Key Concepts | Status | Link |
 |:---:|:---|:---|:---:|:---:|
-| **08** | **Vision AI Fundamentals: Digit Recognizer** | CNNs, MNIST | ⏳ | [View]() |
+| **08** | **Vision AI Fundamentals: Digit Recognizer** | CNNs, MNIST | ✅ | [View]() |
 | **09** | **Advanced Vision AI: Image Classification** | Transfer Learning, ResNet/VGG | ⏳ | [View]() |
 | **10** | **Creative AI: Neural Style Transfer** | Generative Art, VGG19 | ⏳ | [View]() |
 | **11** | **The AI Swiss Army Knife: HF Pipelines** | Hugging Face Transformers, NLP | ⏳ | [View]() |
