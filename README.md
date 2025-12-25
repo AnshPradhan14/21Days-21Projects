@@ -49,7 +49,7 @@ Each folder in this repository corresponds to a specific day and contains the co
 | **09** | **Advanced Vision AI: Image Classification** | Transfer Learning, ResNet/VGG | ✅ | [View]() |
 | **10** | **Creative AI: Neural Style Transfer** | Generative Art, VGG19 | ✅ | [View]() |
 | **11** | **The AI Swiss Army Knife: HF Pipelines** | Hugging Face Transformers, NLP | ✅ | [View]() |
-| **12** | **Real-World CV: Object Detection** | YOLO, Real-time Inference | ⏳ | [View]() |
+| **12** | **Real-World CV: Object Detection** | YOLO, Real-time Inference | ✅ | [View]() |
 | **13** | **Next-Gen Forecasting: Time Series DL** | LSTM, GRU | ⏳ | [View]() |
 | **14** | **Build Your Own GPT** | Transformers Architecture, Text Generation | ⏳ | [View]() |
 
