@@ -50,20 +50,20 @@ Each folder in this repository corresponds to a specific day and contains the co
 | **10** | **Creative AI: Neural Style Transfer** | Generative Art, VGG19 | ✅ | [View]() |
 | **11** | **The AI Swiss Army Knife: HF Pipelines** | Hugging Face Transformers, NLP | ✅ | [View]() |
 | **12** | **Real-World CV: Object Detection** | YOLO, Real-time Inference | ✅ | [View]() |
-| **13** | **Next-Gen Forecasting: Time Series DL** | LSTM, GRU | ⏳ | [View]() |
-| **14** | **Build Your Own GPT** | Transformers Architecture, Text Generation | ⏳ | [View]() |
+| **13** | **Next-Gen Forecasting: Time Series DL** | LSTM, GRU | ✅ | [View]() |
+| **14** | **Build Your Own GPT** | Transformers Architecture, Text Generation | ✅ | [View]() |
 
 ### Week 3: Gen AI & Agentic AI
 *Focus: LLMs, RAG, Vector Databases, and Autonomous Agents.*
 
 | Day | Project Name | Key Concepts | Status | Link |
 |:---:|:---|:---|:---:|:---:|
-| **15** | **Talk to Your Data: Text-to-SQL Generator** | LLMs, SQL Chains | ⏳ | [View]() |
-| **16** | **Intelligent Document Automation: Smart OCR** | LayoutLM, Document Parsing | ⏳ | [View]() |
-| **17** | **Build Your Own Intelligent Search Engine** | Semantic Search, Embeddings | ⏳ | [View]() |
-| **18** | **Chat with Your Knowledge Base: RAG Chatbot** | RAG, Vector DBs (Pinecone/Chroma) | ⏳ | [View]() |
-| **19** | **Autonomous Market Analyst** | AI Agents, Tool Usage | ⏳ | [View]() |
-| **20** | **Web Automation on Autopilot: Browser Agent** | Selenium, Multi-modal Agents | ⏳ | [View]() |
-| **21** | **AI-Powered Newsletter Pipeline on n8n** | Workflow Automation, n8n, Webhooks | ⏳ | [View]() |
+| **15** | **Talk to Your Data: Text-to-SQL Generator** | LLMs, SQL Chains | ✅ | [View]() |
+| **16** | **Intelligent Document Automation: Smart OCR** | LayoutLM, Document Parsing | ✅ | [View]() |
+| **17** | **Build Your Own Intelligent Search Engine** | Semantic Search, Embeddings | ✅ | [View]() |
+| **18** | **Chat with Your Knowledge Base: RAG Chatbot** | RAG, Vector DBs (Pinecone/Chroma) | ✅ | [View]() |
+| **19** | **Autonomous Market Analyst** | AI Agents, Tool Usage | ✅ | [View]() |
+| **20** | **Web Automation on Autopilot: Browser Agent** | Selenium, Multi-modal Agents | ✅ | [View]() |
+| **21** | **AI-Powered Newsletter Pipeline on n8n** | Workflow Automation, n8n, Webhooks | ✅ | [View]() |
 
 ---
